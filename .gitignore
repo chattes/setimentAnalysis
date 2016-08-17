@@ -1,0 +1,3 @@
+*.pyc
+pickled_algos/*
+
